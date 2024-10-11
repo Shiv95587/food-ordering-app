@@ -11,7 +11,6 @@ Check out the video walkthrough of the project here:
 ## Features
 
 - **Secure Login**: User authentication with local data storage using SharedPreferences.
-- **User Profiles**: Store user information locally, allowing users to save and manage their profiles efficiently.
 - **Order History**: View and manage previously purchased items and orders, stored locally for quick access.
 - **Trending Food Lists**: Display popular food items to boost user engagement and help users discover new items.
 - **Search Functionality**: Easily search for food items based on user preferences and keywords.
